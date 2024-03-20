@@ -1,6 +1,6 @@
 ## Willkommen bei AIA - Education 👋
 
-<img src="./aia-education-ilustration.webp" width="200">
+<img src="./aia-education-ilustration.webp" width="500">
 
 Ja, wir treiben die Bildungsrevolution mit Technologie voran. Seit unserer Gründung haben wir es uns zur Aufgabe gemacht, mithilfe künstlicher Intelligenz gegen den Lehrermangel in Deutschland vorzugehen. Unsere Reise begann mit der Vision, Bildung auf ein neues Niveau zu heben, und das **AI.STARTUP.HUB Ideation Program** hat uns auf diesem Weg entscheidend unterstützt.
 
