@@ -2,7 +2,7 @@
 
 <img src="./aia-education-ilustration.webp" width="500">
 
-Ja, wir treiben die Bildungsrevolution mit Technologie voran. Seit unserer Gründung haben wir es uns zur Aufgabe gemacht, mithilfe künstlicher Intelligenz gegen den Lehrermangel in Deutschland vorzugehen. Unsere Reise begann mit der Vision, Bildung auf ein neues Niveau zu heben, und das **AI.STARTUP.HUB Ideation Program** hat uns auf diesem Weg entscheidend unterstützt.
+Die Vision von AIA - Education ist, die Bildung in Deutschland nachhaltig auf das höchste Niveau zu befördern. Erreicht werden soll dieses Ziel durch den Einsatz künstlicher Intelligenz, um den Lehrermangel zu kompensieren und die individuelle Betreuung der Schüler zu verbessern. Mit ihrem KI-Werkzeug möchten Jan und Kansei zuerst die Routineaufgaben der Lehrer reduzieren und im zweiten Projekt anschließend maßgeschneidertes Unterrichtsmaterial bereitstellen, das gezielt auf Lerndefizite abstimmt ist.  
 
 ### 📚 Eine neue Ära der Bildung
 
@@ -21,24 +21,5 @@ Wir sind fest davon überzeugt, dass der Schlüssel zur Überwindung des Lehrerm
 
 ### 👨‍🏫👩‍🏫 Ein Aufruf zur Mitwirkung
 
-Wir stehen noch am Anfang unserer Reise und suchen nach motivierten Lehrkräften und Bildungsexperten, die uns dabei helfen, das deutsche Bildungssystem zu revolutionieren. Wenn Sie Interesse haben, unsere Technologie in der Praxis zu testen oder Teil unseres Teams zu werden, kontaktieren Sie uns bitte unter info@aia-edu.de.
+Das junge Startup-Team steht noch am Anfang seines Weges und sucht motivierte Lehrkräfte, die als Interviewpartner fungieren und das Produkt in der Praxis testen. Interessierte können sich per E-Mail an info@aia-edu.de wenden und Teil einer Bewegung werden, die das deutsche Bildungssystem nachhaltig verändern könnte. 
 
-### 🌈 Die Vorteile von AIA
-
-Unser Ziel ist es, Lehrkräften zu helfen, Zeit zu sparen und gleichzeitig eine faire und individuelle Bewertung der Schülerleistungen zu ermöglichen. Mit AIA profitieren Sie von:
-
-- **Zeitersparnis** durch Automatisierung von Korrekturen
-- **Einfacher Bedienung** unserer plattformübergreifenden Lösungen
-- **Faire Bewertung** durch fortschrittliche KI-Modelle
-- **DSGVO-konformer** Software
-- **Umfassender Korrektur** von Grammatik, Rechtschreibung und Inhalt
-
-<details> 
-	<summary>"Mehr über unsere Technologie und Vision erfahren"</summary>
-	<br>
-	<ul>
-		<li>Unsere Entwicklung basiert auf fortschrittlicher KI, die speziell für den Bildungsbereich angepasst ist.</li>
-		<li>Wir arbeiten interdisziplinär und integrieren Expertise aus Pädagogik, Technologie und Design, um die besten Lösungen zu schaffen.</li>
-		<li>Die Feedbacks von Lehrkräften sind uns besonders wichtig, um unsere Produkte kontinuierlich zu verbessern und an die Bedürfnisse anzupassen.</li>
-	</ul>
-</details>
