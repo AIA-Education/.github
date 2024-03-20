@@ -1,6 +1,6 @@
 ## Willkommen bei AIA - Education 👋
 
-<img src="./aia-education-ilustration.webp" width="500">
+<img src="https://raw.githubusercontent.com/AIA-Education/.github/main/profile/aia-education-ilustration.webp" width="500">
 
 Die Vision von AIA - Education ist, die Bildung in Deutschland nachhaltig auf das höchste Niveau zu befördern. Erreicht werden soll dieses Ziel durch den Einsatz künstlicher Intelligenz, um den Lehrermangel zu kompensieren und die individuelle Betreuung der Schüler zu verbessern. Mit ihrem KI-Werkzeug möchten Jan und Kansei zuerst die Routineaufgaben der Lehrer reduzieren und im zweiten Projekt anschließend maßgeschneidertes Unterrichtsmaterial bereitstellen, das gezielt auf Lerndefizite abstimmt ist.  
 
