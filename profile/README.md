@@ -1,6 +1,6 @@
 ## Willkommen bei AIA - Education 👋
 
-![Eine Illustration, die eine Vielzahl von unterschiedlich thematisierten "Edu-Bots" zeigt. Im Hintergrund sind Symbole des deutschen Bildungssystems und Technologieelemente zu sehen, die KI und Bildung verbinden.](https://user-images.githubusercontent.com/exampleimage.jpg)
+![Illustration](./aia-education-ilustration.webp)
 
 Ja, wir treiben die Bildungsrevolution mit Technologie voran. Seit unserer Gründung haben wir es uns zur Aufgabe gemacht, mithilfe künstlicher Intelligenz gegen den Lehrermangel in Deutschland vorzugehen. Unsere Reise begann mit der Vision, Bildung auf ein neues Niveau zu heben, und das **AI.STARTUP.HUB Ideation Program** hat uns auf diesem Weg entscheidend unterstützt.
 
@@ -42,10 +42,3 @@ Unser Ziel ist es, Lehrkräften zu helfen, Zeit zu sparen und gleichzeitig eine 
 		<li>Die Feedbacks von Lehrkräften sind uns besonders wichtig, um unsere Produkte kontinuierlich zu verbessern und an die Bedürfnisse anzupassen.</li>
 	</ul>
 </details>
-
----
-
-<sub>🤫 Psst! Sie können Ihr eigenes [Organisations-README](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile) erstellen.</sub>
-
-<!--
-Mit 🖤 erstellt
