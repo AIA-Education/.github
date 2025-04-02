@@ -1,4 +1,4 @@
-## Willkommen bei AIA - Education 👋
+## Willkommen bei KorrekturKumpel 👋
 
 <img src="https://raw.githubusercontent.com/AIA-Education/.github/main/profile/aia-education-ilustration.webp" width="500">
 
